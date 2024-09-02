@@ -1,0 +1,14 @@
+SID='AC91efa78d131a58b72b5c404c6d6eb4c3'
+AUTH_TOKEN='3dfd24fe80773e55c1ddb0be131edfd2'
+FROM_NUMBER='+15735272664'
+TO_NUMBER='+918074020784'
+API_KEY='d6ee1361-e5ca-42dc-8e7f-f36634311e9f'
+DEVICE_ID='BOLT964690'
+MAILGUN_API_KEY='62bbb3b5efdc79237a4afe635da6f513-623e10c8-08375a05'
+SANDBOX_URL='sandbox49c7e31d0a2549ebac5952aa613c0d5d.mailgun.org'
+RECEPIENT_EMAIL='rtejasri02@gmail.com'
+SENDER_EMAIL='mailgun@sandbox49c7e31d0a2549ebac5952aa613c0d5d.mailgun.org'
+FRAME_SIZE=10
+MUL_FACTOR=6
+weather_api_key  = "98dffffe4d97f0ddba83496bc1ebe838"
+weather_base_url = "https://api.openweathermap.org/data/2.5/air_pollution?"
